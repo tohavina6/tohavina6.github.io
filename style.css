@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(119, 119, 119);
+}
+
+.contenu{
+    margin:20vh;
+    padding: 30px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+
+    
+}
+.marge{
+    background-color: #d3cdc7;
+    width: 47%;
+    height: auto;
+    padding: 0;
+    text-align: center;
+    
+    color: rgb(0, 0, 0);
+}
+.cv{
+    background-color: rgb(90, 34, 1);
+    padding: 50px 50px 50px 50px;
+    text-align: justify;
+    width: 50%;
+    color: white;
+    
+}
+.nom{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    border-radius: 50px;
+    border-bottom: #ad5b09;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 15vh;
+
+
+    background-color:  #ffffff;;
+}
+.photo{
+    margin: 10px 10px 10px 10px;
+    width: 150px;
+    height: 180px;
+    border-radius: 200px;
+}
+.CV h3{
+    padding: 5px;
+    background-color: rgb(56, 55, 55);
+    backdrop-filter: blur(5px);;
+}
